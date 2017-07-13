@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SGDI</string>
+
+    <string name="navigation_drawer_open">Abrir</string>
+    <string name="navigation_drawer_close">Fechar</string>
+
+    <string name="action_sair">Logout</string>
+    <string name="action_bloquear">Bloquear</string>
+    <string name="action_tarefas">(3)</string>
+    <string name="action_msg">(4)</string>
+    <string name="action_Home">Página Principal</string>
+    <string name="action_perfil">O meu Perfil</string>
+    <string name="action_definicoes">Configurações</string>
+    <string name="action_operacoes">Operações</string>
+    <string name="action_alarme">(5)</string>
+</resources>

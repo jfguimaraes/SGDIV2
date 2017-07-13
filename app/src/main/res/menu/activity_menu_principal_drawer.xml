@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_Home"
+            android:icon="@drawable/action_home"
+            android:title="@string/action_Home"/>
+
+        <item
+            android:id="@+id/action_perfil"
+            android:icon="@drawable/action_perfil"
+            android:title="@string/action_perfil"/>
+        <item
+            android:id="@+id/action_definicoes"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/action_definicoes"/>
+
+    </group>
+
+    <item android:title="@string/action_operacoes">
+        <menu>
+            <item
+                android:id="@+id/action_sair"
+                android:icon="@drawable/action_sair"
+                android:title="@string/action_sair" />
+            <item
+                android:id="@+id/action_bloquear"
+                android:icon="@drawable/ic_lock"
+                android:title="@string/action_bloquear" />
+        </menu>
+    </item>
+
+</menu>
+<!--Menu Principal Encima do lado esquerdo -->

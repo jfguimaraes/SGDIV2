@@ -1,0 +1,13 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:angle="135"
+        android:centerColor="#FF051E"
+        android:endColor="#FFFFFF"
+        android:startColor="#FF0000"
+        android:type="linear" />
+  <!-- criação de um gradiente com a definição da tipo, grau e cores (início, centro e fim)-->
+</shape>
+<!--
+ficheiro que configura o painel que contem a foto, nome e email do utilizador.
+-->
